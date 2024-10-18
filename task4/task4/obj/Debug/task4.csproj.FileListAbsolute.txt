@@ -1,0 +1,11 @@
+C:\Users\Владимир\source\repos\task4\task4\obj\Debug\task4.csproj.AssemblyReference.cache
+C:\Users\Владимир\source\repos\task4\task4\obj\Debug\task4.Properties.Resources.resources
+C:\Users\Владимир\source\repos\task4\task4\obj\Debug\task4.csproj.GenerateResource.cache
+C:\Users\Владимир\source\repos\task4\task4\obj\Debug\task4.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\task4\task4\bin\Debug\task4.exe.config
+C:\Users\Владимир\source\repos\task4\task4\bin\Debug\task4.exe
+C:\Users\Владимир\source\repos\task4\task4\bin\Debug\task4.pdb
+C:\Users\Владимир\source\repos\task4\task4\obj\Debug\task4.exe
+C:\Users\Владимир\source\repos\task4\task4\obj\Debug\task4.pdb
+C:\Users\Владимир\source\repos\task4\task4\obj\Debug\task4.frmMuseum.resources
+C:\Users\Владимир\source\repos\task4\task4\obj\Debug\task4.frmHelp.resources
